@@ -1,0 +1,27 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+section {
+    width: 1500px;
+    height: 600px;
+    background: center/cover url("https://images.unsplash.com/photo-1659948782675-9d4fadea983b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80");
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+h1+h2 {
+    margin-top: 5px;
+}
+
+h1,
+h2,
+h3 {
+    font-family: Roboto, sans-serif;
+    font-weight: 100;
+}
